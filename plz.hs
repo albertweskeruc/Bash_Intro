@@ -1,0 +1,1 @@
+doubleME x = x+x
